@@ -68,15 +68,5 @@ O pipeline foi construído para ser robusto e escalável:
 </div>
 
 ---
-
-## 💻 Como Rodar
-
-```bash
-# Clone o repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-
-# Instale as dependências
-pip install -r requirements.txt
-
-# Execute o Jupyter Notebook
-jupyter notebook UCI_market.ipynb
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
